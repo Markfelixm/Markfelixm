@@ -4,7 +4,7 @@ I'm marmulle, a software developer studying at [Hive Helsinki](https://www.hive.
 
 ---
 
-I mostly dabble in machine learning, graphics rendering, and C/C++ applications and tooling.
+I mostly dabble in machine learning, graphics rendering, game making, and C/C++ applications and tooling.
 
 ---
 
